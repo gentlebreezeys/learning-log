@@ -4,7 +4,7 @@
 
 ## 我是谁
 
-【写两句自我介绍：背景、为什么转行、为什么选 AI 方向】
+非科班、编程零基础，但对 AI Agent 生态着迷很久了——平时一直在整理 Agent 研究笔记（见我的 [agent-research](https://github.com/gentlebreezeys/agent-research) 仓库）。看懂了太多别人的东西之后，决定自己下场：用一年时间，从第一行 Python 写到做出自己的 AI 产品。每天下班后 1-2 小时，节假日冲刺。
 
 ## 一年目标
 
